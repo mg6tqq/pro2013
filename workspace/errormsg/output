@@ -1,0 +1,3800 @@
+========
+Hello.java:1: class, interface, or enum expected
+xpublic class Hello {
+^
+1 error
+
+xpublic class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+pxublic class Hello {
+^
+1 error
+
+pxublic class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+puxblic class Hello {
+^
+1 error
+
+puxblic class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+pubxlic class Hello {
+^
+1 error
+
+pubxlic class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+publxic class Hello {
+^
+1 error
+
+publxic class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+publixc class Hello {
+^
+1 error
+
+publixc class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+publicx class Hello {
+^
+1 error
+
+publicx class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+public xclass Hello {
+       ^
+Hello.java:2: class, interface, or enum expected
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class, interface, or enum expected
+    }
+    ^
+3 errors
+
+public xclass Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+public cxlass Hello {
+       ^
+Hello.java:2: class, interface, or enum expected
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class, interface, or enum expected
+    }
+    ^
+3 errors
+
+public cxlass Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+public clxass Hello {
+       ^
+Hello.java:2: class, interface, or enum expected
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class, interface, or enum expected
+    }
+    ^
+3 errors
+
+public clxass Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+public claxss Hello {
+       ^
+Hello.java:2: class, interface, or enum expected
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class, interface, or enum expected
+    }
+    ^
+3 errors
+
+public claxss Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+public clasxs Hello {
+       ^
+Hello.java:2: class, interface, or enum expected
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class, interface, or enum expected
+    }
+    ^
+3 errors
+
+public clasxs Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+public classx Hello {
+       ^
+Hello.java:2: class, interface, or enum expected
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class, interface, or enum expected
+    }
+    ^
+3 errors
+
+public classx Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class xHello is public, should be declared in a file named xHello.java
+public class xHello {
+       ^
+1 error
+
+public class xHello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class Hxello is public, should be declared in a file named Hxello.java
+public class Hxello {
+       ^
+1 error
+
+public class Hxello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class Hexllo is public, should be declared in a file named Hexllo.java
+public class Hexllo {
+       ^
+1 error
+
+public class Hexllo {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class Helxlo is public, should be declared in a file named Helxlo.java
+public class Helxlo {
+       ^
+1 error
+
+public class Helxlo {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class Hellxo is public, should be declared in a file named Hellxo.java
+public class Hellxo {
+       ^
+1 error
+
+public class Hellxo {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class Hellox is public, should be declared in a file named Hellox.java
+public class Hellox {
+       ^
+1 error
+
+public class Hellox {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: '{' expected
+public class Hello x{
+                  ^
+1 error
+
+public class Hello x{
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: <identifier> expected
+public class Hello {x
+                     ^
+1 error
+
+public class Hello {x
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+x    public static void main(String[] args) {
+ ^
+1 error
+
+public class Hello {
+x    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+ x   public static void main(String[] args) {
+  ^
+1 error
+
+public class Hello {
+ x   public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+  x  public static void main(String[] args) {
+   ^
+1 error
+
+public class Hello {
+  x  public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+   x public static void main(String[] args) {
+    ^
+1 error
+
+public class Hello {
+   x public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    xpublic static void main(String[] args) {
+           ^
+1 error
+
+public class Hello {
+    xpublic static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    pxublic static void main(String[] args) {
+           ^
+1 error
+
+public class Hello {
+    pxublic static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    puxblic static void main(String[] args) {
+           ^
+1 error
+
+public class Hello {
+    puxblic static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    pubxlic static void main(String[] args) {
+           ^
+1 error
+
+public class Hello {
+    pubxlic static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    publxic static void main(String[] args) {
+           ^
+1 error
+
+public class Hello {
+    publxic static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    publixc static void main(String[] args) {
+           ^
+1 error
+
+public class Hello {
+    publixc static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    publicx static void main(String[] args) {
+           ^
+1 error
+
+public class Hello {
+    publicx static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    public xstatic void main(String[] args) {
+                  ^
+Hello.java:2: invalid method declaration; return type required
+    public xstatic void main(String[] args) {
+                        ^
+2 errors
+
+public class Hello {
+    public xstatic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    public sxtatic void main(String[] args) {
+                  ^
+Hello.java:2: invalid method declaration; return type required
+    public sxtatic void main(String[] args) {
+                        ^
+2 errors
+
+public class Hello {
+    public sxtatic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    public stxatic void main(String[] args) {
+                  ^
+Hello.java:2: invalid method declaration; return type required
+    public stxatic void main(String[] args) {
+                        ^
+2 errors
+
+public class Hello {
+    public stxatic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    public staxtic void main(String[] args) {
+                  ^
+Hello.java:2: invalid method declaration; return type required
+    public staxtic void main(String[] args) {
+                        ^
+2 errors
+
+public class Hello {
+    public staxtic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    public statxic void main(String[] args) {
+                  ^
+Hello.java:2: invalid method declaration; return type required
+    public statxic void main(String[] args) {
+                        ^
+2 errors
+
+public class Hello {
+    public statxic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    public statixc void main(String[] args) {
+                  ^
+Hello.java:2: invalid method declaration; return type required
+    public statixc void main(String[] args) {
+                        ^
+2 errors
+
+public class Hello {
+    public statixc void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    public staticx void main(String[] args) {
+                  ^
+Hello.java:2: invalid method declaration; return type required
+    public staticx void main(String[] args) {
+                        ^
+2 errors
+
+public class Hello {
+    public staticx void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class xvoid
+location: class Hello
+    public static xvoid main(String[] args) {
+                  ^
+1 error
+
+public class Hello {
+    public static xvoid main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class vxoid
+location: class Hello
+    public static vxoid main(String[] args) {
+                  ^
+1 error
+
+public class Hello {
+    public static vxoid main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class voxid
+location: class Hello
+    public static voxid main(String[] args) {
+                  ^
+1 error
+
+public class Hello {
+    public static voxid main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class voixd
+location: class Hello
+    public static voixd main(String[] args) {
+                  ^
+1 error
+
+public class Hello {
+    public static voixd main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class voidx
+location: class Hello
+    public static voidx main(String[] args) {
+                  ^
+1 error
+
+public class Hello {
+    public static voidx main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class xString
+location: class Hello
+    public static void main(xString[] args) {
+                            ^
+1 error
+
+public class Hello {
+    public static void main(xString[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class Sxtring
+location: class Hello
+    public static void main(Sxtring[] args) {
+                            ^
+1 error
+
+public class Hello {
+    public static void main(Sxtring[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class Stxring
+location: class Hello
+    public static void main(Stxring[] args) {
+                            ^
+1 error
+
+public class Hello {
+    public static void main(Stxring[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class Strxing
+location: class Hello
+    public static void main(Strxing[] args) {
+                            ^
+1 error
+
+public class Hello {
+    public static void main(Strxing[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class Strixng
+location: class Hello
+    public static void main(Strixng[] args) {
+                            ^
+1 error
+
+public class Hello {
+    public static void main(Strixng[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class Strinxg
+location: class Hello
+    public static void main(Strinxg[] args) {
+                            ^
+1 error
+
+public class Hello {
+    public static void main(Strinxg[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class Stringx
+location: class Hello
+    public static void main(Stringx[] args) {
+                            ^
+1 error
+
+public class Hello {
+    public static void main(Stringx[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: ']' expected
+    public static void main(String[x] args) {
+                                   ^
+Hello.java:2: ')' expected
+    public static void main(String[x] args) {
+                                    ^
+Hello.java:2: <identifier> expected
+    public static void main(String[x] args) {
+                                          ^
+3 errors
+
+public class Hello {
+    public static void main(String[x] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: ')' expected
+    public static void main(String[]x args) {
+                                     ^
+Hello.java:2: illegal start of type
+    public static void main(String[]x args) {
+                                          ^
+Hello.java:2: <identifier> expected
+    public static void main(String[]x args) {
+                                           ^
+Hello.java:2: ';' expected
+    public static void main(String[]x args) {
+                                             ^
+Hello.java:3: illegal start of type
+        System.out.println("hello, world");
+              ^
+Hello.java:3: ';' expected
+        System.out.println("hello, world");
+                  ^
+Hello.java:3: invalid method declaration; return type required
+        System.out.println("hello, world");
+                   ^
+Hello.java:3: illegal start of type
+        System.out.println("hello, world");
+                           ^
+Hello.java:5: class, interface, or enum expected
+}
+^
+9 errors
+
+public class Hello {
+    public static void main(String[]x args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: ';' expected
+    public static void main(String[] args)x {
+                                          ^
+1 error
+
+public class Hello {
+    public static void main(String[] args)x {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: ';' expected
+    public static void main(String[] args) x{
+                                          ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) x{
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: ';' expected
+        System.out.println("hello, world");
+              ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {x
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: ';' expected
+x        System.out.println("hello, world");
+               ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+x        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: ';' expected
+ x       System.out.println("hello, world");
+               ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+ x       System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: ';' expected
+  x      System.out.println("hello, world");
+               ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+  x      System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: ';' expected
+   x     System.out.println("hello, world");
+               ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+   x     System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: ';' expected
+    x    System.out.println("hello, world");
+               ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+    x    System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: ';' expected
+     x   System.out.println("hello, world");
+               ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+     x   System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: ';' expected
+      x  System.out.println("hello, world");
+               ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+      x  System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: ';' expected
+       x System.out.println("hello, world");
+               ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+       x System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: package xSystem does not exist
+        xSystem.out.println("hello, world");
+               ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        xSystem.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: package Sxystem does not exist
+        Sxystem.out.println("hello, world");
+               ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        Sxystem.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: package Syxstem does not exist
+        Syxstem.out.println("hello, world");
+               ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        Syxstem.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: package Sysxtem does not exist
+        Sysxtem.out.println("hello, world");
+               ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        Sysxtem.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: package Systxem does not exist
+        Systxem.out.println("hello, world");
+               ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        Systxem.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: package Systexm does not exist
+        Systexm.out.println("hello, world");
+               ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        Systexm.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: package Systemx does not exist
+        Systemx.out.println("hello, world");
+               ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        Systemx.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : variable xout
+location: class java.lang.System
+        System.xout.println("hello, world");
+              ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.xout.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : variable oxut
+location: class java.lang.System
+        System.oxut.println("hello, world");
+              ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.oxut.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : variable ouxt
+location: class java.lang.System
+        System.ouxt.println("hello, world");
+              ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.ouxt.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : variable outx
+location: class java.lang.System
+        System.outx.println("hello, world");
+              ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.outx.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : method xprintln(java.lang.String)
+location: class java.io.PrintStream
+        System.out.xprintln("hello, world");
+                  ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.xprintln("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : method pxrintln(java.lang.String)
+location: class java.io.PrintStream
+        System.out.pxrintln("hello, world");
+                  ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.pxrintln("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : method prxintln(java.lang.String)
+location: class java.io.PrintStream
+        System.out.prxintln("hello, world");
+                  ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.prxintln("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : method prixntln(java.lang.String)
+location: class java.io.PrintStream
+        System.out.prixntln("hello, world");
+                  ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.prixntln("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : method prinxtln(java.lang.String)
+location: class java.io.PrintStream
+        System.out.prinxtln("hello, world");
+                  ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.prinxtln("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : method printxln(java.lang.String)
+location: class java.io.PrintStream
+        System.out.printxln("hello, world");
+                  ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.printxln("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : method printlxn(java.lang.String)
+location: class java.io.PrintStream
+        System.out.printlxn("hello, world");
+                  ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.printlxn("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : method printlnx(java.lang.String)
+location: class java.io.PrintStream
+        System.out.printlnx("hello, world");
+                  ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.printlnx("hello, world");
+    }
+}
+
+========
+Hello.java:3: ')' expected
+        System.out.println(x"hello, world");
+                            ^
+Hello.java:3: illegal start of expression
+        System.out.println(x"hello, world");
+                                          ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println(x"hello, world");
+    }
+}
+
+========
+Hello.java:3: ')' expected
+        System.out.println("hello, world"x);
+                                         ^
+Hello.java:3: illegal start of expression
+        System.out.println("hello, world"x);
+                                          ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world"x);
+    }
+}
+
+========
+Hello.java:3: ';' expected
+        System.out.println("hello, world")x;
+                                          ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world")x;
+    }
+}
+
+========
+Hello.java:3: not a statement
+        System.out.println("hello, world");x
+                                           ^
+Hello.java:3: ';' expected
+        System.out.println("hello, world");x
+                                            ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");x
+    }
+}
+
+========
+Hello.java:4: not a statement
+x    }
+^
+Hello.java:4: ';' expected
+x    }
+ ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+x    }
+}
+
+========
+Hello.java:4: not a statement
+ x   }
+ ^
+Hello.java:4: ';' expected
+ x   }
+  ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+ x   }
+}
+
+========
+Hello.java:4: not a statement
+  x  }
+  ^
+Hello.java:4: ';' expected
+  x  }
+   ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+  x  }
+}
+
+========
+Hello.java:4: not a statement
+   x }
+   ^
+Hello.java:4: ';' expected
+   x }
+    ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+   x }
+}
+
+========
+Hello.java:4: not a statement
+    x}
+    ^
+Hello.java:4: ';' expected
+    x}
+     ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    x}
+}
+
+========
+Hello.java:4: <identifier> expected
+    }x
+      ^
+Hello.java:5: reached end of file while parsing
+}
+ ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }x
+}
+
+========
+Hello.java:5: <identifier> expected
+x}
+ ^
+Hello.java:5: reached end of file while parsing
+x}
+  ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+x}
+
+========
+Hello.java:5: reached end of file while parsing
+}x
+ ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}x
+
+========
+Hello.java:1: class, interface, or enum expected
+1public class Hello {
+^
+1 error
+
+1public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+p1ublic class Hello {
+^
+1 error
+
+p1ublic class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+pu1blic class Hello {
+^
+1 error
+
+pu1blic class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+pub1lic class Hello {
+^
+1 error
+
+pub1lic class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+publ1ic class Hello {
+^
+1 error
+
+publ1ic class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+publi1c class Hello {
+^
+1 error
+
+publi1c class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+public1 class Hello {
+^
+1 error
+
+public1 class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+public 1class Hello {
+       ^
+1 error
+
+public 1class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+public c1lass Hello {
+       ^
+Hello.java:2: class, interface, or enum expected
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class, interface, or enum expected
+    }
+    ^
+3 errors
+
+public c1lass Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+public cl1ass Hello {
+       ^
+Hello.java:2: class, interface, or enum expected
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class, interface, or enum expected
+    }
+    ^
+3 errors
+
+public cl1ass Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+public cla1ss Hello {
+       ^
+Hello.java:2: class, interface, or enum expected
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class, interface, or enum expected
+    }
+    ^
+3 errors
+
+public cla1ss Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+public clas1s Hello {
+       ^
+Hello.java:2: class, interface, or enum expected
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class, interface, or enum expected
+    }
+    ^
+3 errors
+
+public clas1s Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+public class1 Hello {
+       ^
+Hello.java:2: class, interface, or enum expected
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class, interface, or enum expected
+    }
+    ^
+3 errors
+
+public class1 Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: <identifier> expected
+public class 1Hello {
+            ^
+Hello.java:1: <identifier> expected
+public class 1Hello {
+                   ^
+2 errors
+
+public class 1Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class H1ello is public, should be declared in a file named H1ello.java
+public class H1ello {
+       ^
+1 error
+
+public class H1ello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class He1llo is public, should be declared in a file named He1llo.java
+public class He1llo {
+       ^
+1 error
+
+public class He1llo {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class Hel1lo is public, should be declared in a file named Hel1lo.java
+public class Hel1lo {
+       ^
+1 error
+
+public class Hel1lo {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class Hell1o is public, should be declared in a file named Hell1o.java
+public class Hell1o {
+       ^
+1 error
+
+public class Hell1o {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class Hello1 is public, should be declared in a file named Hello1.java
+public class Hello1 {
+       ^
+1 error
+
+public class Hello1 {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: '{' expected
+public class Hello 1{
+                  ^
+1 error
+
+public class Hello 1{
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: illegal start of type
+public class Hello {1
+                    ^
+Hello.java:1: ';' expected
+public class Hello {1
+                     ^
+2 errors
+
+public class Hello {1
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: illegal start of type
+1    public static void main(String[] args) {
+^
+Hello.java:2: ';' expected
+1    public static void main(String[] args) {
+ ^
+2 errors
+
+public class Hello {
+1    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: illegal start of type
+ 1   public static void main(String[] args) {
+ ^
+Hello.java:2: ';' expected
+ 1   public static void main(String[] args) {
+  ^
+2 errors
+
+public class Hello {
+ 1   public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: illegal start of type
+  1  public static void main(String[] args) {
+  ^
+Hello.java:2: ';' expected
+  1  public static void main(String[] args) {
+   ^
+2 errors
+
+public class Hello {
+  1  public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: illegal start of type
+   1 public static void main(String[] args) {
+   ^
+Hello.java:2: ';' expected
+   1 public static void main(String[] args) {
+    ^
+2 errors
+
+public class Hello {
+   1 public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: illegal start of type
+    1public static void main(String[] args) {
+    ^
+Hello.java:2: ';' expected
+    1public static void main(String[] args) {
+     ^
+2 errors
+
+public class Hello {
+    1public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    p1ublic static void main(String[] args) {
+           ^
+1 error
+
+public class Hello {
+    p1ublic static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    pu1blic static void main(String[] args) {
+           ^
+1 error
+
+public class Hello {
+    pu1blic static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    pub1lic static void main(String[] args) {
+           ^
+1 error
+
+public class Hello {
+    pub1lic static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    publ1ic static void main(String[] args) {
+           ^
+1 error
+
+public class Hello {
+    publ1ic static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    publi1c static void main(String[] args) {
+           ^
+1 error
+
+public class Hello {
+    publi1c static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    public1 static void main(String[] args) {
+           ^
+1 error
+
+public class Hello {
+    public1 static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: illegal start of type
+    public 1static void main(String[] args) {
+           ^
+Hello.java:2: ';' expected
+    public 1static void main(String[] args) {
+            ^
+2 errors
+
+public class Hello {
+    public 1static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    public s1tatic void main(String[] args) {
+                  ^
+Hello.java:2: invalid method declaration; return type required
+    public s1tatic void main(String[] args) {
+                        ^
+2 errors
+
+public class Hello {
+    public s1tatic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    public st1atic void main(String[] args) {
+                  ^
+Hello.java:2: invalid method declaration; return type required
+    public st1atic void main(String[] args) {
+                        ^
+2 errors
+
+public class Hello {
+    public st1atic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    public sta1tic void main(String[] args) {
+                  ^
+Hello.java:2: invalid method declaration; return type required
+    public sta1tic void main(String[] args) {
+                        ^
+2 errors
+
+public class Hello {
+    public sta1tic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    public stat1ic void main(String[] args) {
+                  ^
+Hello.java:2: invalid method declaration; return type required
+    public stat1ic void main(String[] args) {
+                        ^
+2 errors
+
+public class Hello {
+    public stat1ic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    public stati1c void main(String[] args) {
+                  ^
+Hello.java:2: invalid method declaration; return type required
+    public stati1c void main(String[] args) {
+                        ^
+2 errors
+
+public class Hello {
+    public stati1c void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    public static1 void main(String[] args) {
+                  ^
+Hello.java:2: invalid method declaration; return type required
+    public static1 void main(String[] args) {
+                        ^
+2 errors
+
+public class Hello {
+    public static1 void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: illegal start of type
+    public static 1void main(String[] args) {
+                  ^
+Hello.java:2: ';' expected
+    public static 1void main(String[] args) {
+                   ^
+Hello.java:2: invalid method declaration; return type required
+    public static 1void main(String[] args) {
+                        ^
+3 errors
+
+public class Hello {
+    public static 1void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class v1oid
+location: class Hello
+    public static v1oid main(String[] args) {
+                  ^
+1 error
+
+public class Hello {
+    public static v1oid main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class vo1id
+location: class Hello
+    public static vo1id main(String[] args) {
+                  ^
+1 error
+
+public class Hello {
+    public static vo1id main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class voi1d
+location: class Hello
+    public static voi1d main(String[] args) {
+                  ^
+1 error
+
+public class Hello {
+    public static voi1d main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class void1
+location: class Hello
+    public static void1 main(String[] args) {
+                  ^
+1 error
+
+public class Hello {
+    public static void1 main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    public static void 1main(String[] args) {
+                      ^
+Hello.java:2: '(' expected
+    public static void 1main(String[] args) {
+                       ^
+Hello.java:2: invalid method declaration; return type required
+    public static void 1main(String[] args) {
+                        ^
+3 errors
+
+public class Hello {
+    public static void 1main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: illegal start of type
+    public static void main(1String[] args) {
+                            ^
+Hello.java:2: ')' expected
+    public static void main(1String[] args) {
+                             ^
+Hello.java:2: ';' expected
+    public static void main(1String[] args) {
+                                   ^
+Hello.java:2: illegal start of type
+    public static void main(1String[] args) {
+                                    ^
+Hello.java:2: ';' expected
+    public static void main(1String[] args) {
+                                          ^
+5 errors
+
+public class Hello {
+    public static void main(1String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class S1tring
+location: class Hello
+    public static void main(S1tring[] args) {
+                            ^
+1 error
+
+public class Hello {
+    public static void main(S1tring[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class St1ring
+location: class Hello
+    public static void main(St1ring[] args) {
+                            ^
+1 error
+
+public class Hello {
+    public static void main(St1ring[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class Str1ing
+location: class Hello
+    public static void main(Str1ing[] args) {
+                            ^
+1 error
+
+public class Hello {
+    public static void main(Str1ing[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class Stri1ng
+location: class Hello
+    public static void main(Stri1ng[] args) {
+                            ^
+1 error
+
+public class Hello {
+    public static void main(Stri1ng[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class Strin1g
+location: class Hello
+    public static void main(Strin1g[] args) {
+                            ^
+1 error
+
+public class Hello {
+    public static void main(Strin1g[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class String1
+location: class Hello
+    public static void main(String1[] args) {
+                            ^
+1 error
+
+public class Hello {
+    public static void main(String1[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: ']' expected
+    public static void main(String[1] args) {
+                                   ^
+Hello.java:2: ')' expected
+    public static void main(String[1] args) {
+                                    ^
+Hello.java:2: ';' expected
+    public static void main(String[1] args) {
+                                     ^
+Hello.java:2: illegal start of type
+    public static void main(String[1] args) {
+                                          ^
+Hello.java:2: <identifier> expected
+    public static void main(String[1] args) {
+                                           ^
+Hello.java:2: ';' expected
+    public static void main(String[1] args) {
+                                             ^
+Hello.java:3: illegal start of type
+        System.out.println("hello, world");
+              ^
+Hello.java:3: ';' expected
+        System.out.println("hello, world");
+                  ^
+Hello.java:3: invalid method declaration; return type required
+        System.out.println("hello, world");
+                   ^
+Hello.java:3: illegal start of type
+        System.out.println("hello, world");
+                           ^
+Hello.java:5: class, interface, or enum expected
+}
+^
+11 errors
+
+public class Hello {
+    public static void main(String[1] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    public static void main(String[]1 args) {
+                                    ^
+Hello.java:2: ';' expected
+    public static void main(String[]1 args) {
+                                     ^
+Hello.java:2: illegal start of type
+    public static void main(String[]1 args) {
+                                          ^
+Hello.java:2: <identifier> expected
+    public static void main(String[]1 args) {
+                                           ^
+Hello.java:2: ';' expected
+    public static void main(String[]1 args) {
+                                             ^
+Hello.java:3: illegal start of type
+        System.out.println("hello, world");
+              ^
+Hello.java:3: ';' expected
+        System.out.println("hello, world");
+                  ^
+Hello.java:3: invalid method declaration; return type required
+        System.out.println("hello, world");
+                   ^
+Hello.java:3: illegal start of type
+        System.out.println("hello, world");
+                           ^
+Hello.java:5: class, interface, or enum expected
+}
+^
+10 errors
+
+public class Hello {
+    public static void main(String[]1 args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    public static void main(String[] 1args) {
+                                    ^
+Hello.java:2: ';' expected
+    public static void main(String[] 1args) {
+                                      ^
+Hello.java:2: illegal start of type
+    public static void main(String[] 1args) {
+                                          ^
+Hello.java:2: <identifier> expected
+    public static void main(String[] 1args) {
+                                           ^
+Hello.java:2: ';' expected
+    public static void main(String[] 1args) {
+                                             ^
+Hello.java:3: illegal start of type
+        System.out.println("hello, world");
+              ^
+Hello.java:3: ';' expected
+        System.out.println("hello, world");
+                  ^
+Hello.java:3: invalid method declaration; return type required
+        System.out.println("hello, world");
+                   ^
+Hello.java:3: illegal start of type
+        System.out.println("hello, world");
+                           ^
+Hello.java:5: class, interface, or enum expected
+}
+^
+10 errors
+
+public class Hello {
+    public static void main(String[] 1args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: ';' expected
+    public static void main(String[] args)1 {
+                                          ^
+1 error
+
+public class Hello {
+    public static void main(String[] args)1 {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: ';' expected
+    public static void main(String[] args) 1{
+                                          ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) 1{
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: not a statement
+    public static void main(String[] args) {1
+                                            ^
+Hello.java:2: ';' expected
+    public static void main(String[] args) {1
+                                             ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {1
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: not a statement
+1        System.out.println("hello, world");
+^
+Hello.java:3: ';' expected
+1        System.out.println("hello, world");
+ ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+1        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: not a statement
+ 1       System.out.println("hello, world");
+ ^
+Hello.java:3: ';' expected
+ 1       System.out.println("hello, world");
+  ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+ 1       System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: not a statement
+  1      System.out.println("hello, world");
+  ^
+Hello.java:3: ';' expected
+  1      System.out.println("hello, world");
+   ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+  1      System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: not a statement
+   1     System.out.println("hello, world");
+   ^
+Hello.java:3: ';' expected
+   1     System.out.println("hello, world");
+    ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+   1     System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: not a statement
+    1    System.out.println("hello, world");
+    ^
+Hello.java:3: ';' expected
+    1    System.out.println("hello, world");
+     ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+    1    System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: not a statement
+     1   System.out.println("hello, world");
+     ^
+Hello.java:3: ';' expected
+     1   System.out.println("hello, world");
+      ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+     1   System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: not a statement
+      1  System.out.println("hello, world");
+      ^
+Hello.java:3: ';' expected
+      1  System.out.println("hello, world");
+       ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+      1  System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: not a statement
+       1 System.out.println("hello, world");
+       ^
+Hello.java:3: ';' expected
+       1 System.out.println("hello, world");
+        ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+       1 System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: not a statement
+        1System.out.println("hello, world");
+        ^
+Hello.java:3: ';' expected
+        1System.out.println("hello, world");
+         ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+        1System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: package S1ystem does not exist
+        S1ystem.out.println("hello, world");
+               ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        S1ystem.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: package Sy1stem does not exist
+        Sy1stem.out.println("hello, world");
+               ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        Sy1stem.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: package Sys1tem does not exist
+        Sys1tem.out.println("hello, world");
+               ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        Sys1tem.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: package Syst1em does not exist
+        Syst1em.out.println("hello, world");
+               ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        Syst1em.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: package Syste1m does not exist
+        Syste1m.out.println("hello, world");
+               ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        Syste1m.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: package System1 does not exist
+        System1.out.println("hello, world");
+               ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System1.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: not a statement
+        System.1out.println("hello, world");
+        ^
+Hello.java:3: ';' expected
+        System.1out.println("hello, world");
+              ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+        System.1out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : variable o1ut
+location: class java.lang.System
+        System.o1ut.println("hello, world");
+              ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.o1ut.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : variable ou1t
+location: class java.lang.System
+        System.ou1t.println("hello, world");
+              ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.ou1t.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : variable out1
+location: class java.lang.System
+        System.out1.println("hello, world");
+              ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out1.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: not a statement
+        System.out.1println("hello, world");
+              ^
+Hello.java:3: ';' expected
+        System.out.1println("hello, world");
+                  ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.1println("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : method p1rintln(java.lang.String)
+location: class java.io.PrintStream
+        System.out.p1rintln("hello, world");
+                  ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.p1rintln("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : method pr1intln(java.lang.String)
+location: class java.io.PrintStream
+        System.out.pr1intln("hello, world");
+                  ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.pr1intln("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : method pri1ntln(java.lang.String)
+location: class java.io.PrintStream
+        System.out.pri1ntln("hello, world");
+                  ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.pri1ntln("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : method prin1tln(java.lang.String)
+location: class java.io.PrintStream
+        System.out.prin1tln("hello, world");
+                  ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.prin1tln("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : method print1ln(java.lang.String)
+location: class java.io.PrintStream
+        System.out.print1ln("hello, world");
+                  ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.print1ln("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : method printl1n(java.lang.String)
+location: class java.io.PrintStream
+        System.out.printl1n("hello, world");
+                  ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.printl1n("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : method println1(java.lang.String)
+location: class java.io.PrintStream
+        System.out.println1("hello, world");
+                  ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println1("hello, world");
+    }
+}
+
+========
+Hello.java:3: ')' expected
+        System.out.println(1"hello, world");
+                            ^
+Hello.java:3: illegal start of expression
+        System.out.println(1"hello, world");
+                                          ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println(1"hello, world");
+    }
+}
+
+========
+Hello.java:3: ')' expected
+        System.out.println("hello, world"1);
+                                         ^
+Hello.java:3: illegal start of expression
+        System.out.println("hello, world"1);
+                                          ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world"1);
+    }
+}
+
+========
+Hello.java:3: ';' expected
+        System.out.println("hello, world")1;
+                                          ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world")1;
+    }
+}
+
+========
+Hello.java:3: not a statement
+        System.out.println("hello, world");1
+                                           ^
+Hello.java:3: ';' expected
+        System.out.println("hello, world");1
+                                            ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");1
+    }
+}
+
+========
+Hello.java:4: not a statement
+1    }
+^
+Hello.java:4: ';' expected
+1    }
+ ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+1    }
+}
+
+========
+Hello.java:4: not a statement
+ 1   }
+ ^
+Hello.java:4: ';' expected
+ 1   }
+  ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+ 1   }
+}
+
+========
+Hello.java:4: not a statement
+  1  }
+  ^
+Hello.java:4: ';' expected
+  1  }
+   ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+  1  }
+}
+
+========
+Hello.java:4: not a statement
+   1 }
+   ^
+Hello.java:4: ';' expected
+   1 }
+    ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+   1 }
+}
+
+========
+Hello.java:4: not a statement
+    1}
+    ^
+Hello.java:4: ';' expected
+    1}
+     ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    1}
+}
+
+========
+Hello.java:4: illegal start of type
+    }1
+     ^
+Hello.java:4: ';' expected
+    }1
+      ^
+Hello.java:5: reached end of file while parsing
+}
+ ^
+3 errors
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }1
+}
+
+========
+Hello.java:5: illegal start of type
+1}
+^
+Hello.java:5: ';' expected
+1}
+ ^
+Hello.java:5: reached end of file while parsing
+1}
+  ^
+3 errors
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+1}
+
+========
+Hello.java:5: class, interface, or enum expected
+}1
+ ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}1
+
+========
+Hello.java:1: class, interface, or enum expected
+ublic class Hello {
+^
+1 error
+
+ublic class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+pblic class Hello {
+^
+1 error
+
+pblic class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+pulic class Hello {
+^
+1 error
+
+pulic class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+pubic class Hello {
+^
+1 error
+
+pubic class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+publc class Hello {
+^
+1 error
+
+publc class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+publi class Hello {
+^
+1 error
+
+publi class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+publicclass Hello {
+^
+Hello.java:2: class, interface, or enum expected
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class, interface, or enum expected
+    }
+    ^
+3 errors
+
+publicclass Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+public lass Hello {
+       ^
+Hello.java:2: class, interface, or enum expected
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class, interface, or enum expected
+    }
+    ^
+3 errors
+
+public lass Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+public cass Hello {
+       ^
+Hello.java:2: class, interface, or enum expected
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class, interface, or enum expected
+    }
+    ^
+3 errors
+
+public cass Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+public clss Hello {
+       ^
+Hello.java:2: class, interface, or enum expected
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class, interface, or enum expected
+    }
+    ^
+3 errors
+
+public clss Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+public clas Hello {
+       ^
+Hello.java:2: class, interface, or enum expected
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class, interface, or enum expected
+    }
+    ^
+3 errors
+
+public clas Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+public clas Hello {
+       ^
+Hello.java:2: class, interface, or enum expected
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class, interface, or enum expected
+    }
+    ^
+3 errors
+
+public clas Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class, interface, or enum expected
+public classHello {
+       ^
+Hello.java:2: class, interface, or enum expected
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class, interface, or enum expected
+    }
+    ^
+3 errors
+
+public classHello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class ello is public, should be declared in a file named ello.java
+public class ello {
+       ^
+1 error
+
+public class ello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class Hllo is public, should be declared in a file named Hllo.java
+public class Hllo {
+       ^
+1 error
+
+public class Hllo {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class Helo is public, should be declared in a file named Helo.java
+public class Helo {
+       ^
+1 error
+
+public class Helo {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class Helo is public, should be declared in a file named Helo.java
+public class Helo {
+       ^
+1 error
+
+public class Helo {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class Hell is public, should be declared in a file named Hell.java
+public class Hell {
+       ^
+1 error
+
+public class Hell {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: '{' expected
+public class Hello 
+                  ^
+1 error
+
+public class Hello 
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    ublic static void main(String[] args) {
+         ^
+1 error
+
+public class Hello {
+    ublic static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    pblic static void main(String[] args) {
+         ^
+1 error
+
+public class Hello {
+    pblic static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    pulic static void main(String[] args) {
+         ^
+1 error
+
+public class Hello {
+    pulic static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    pubic static void main(String[] args) {
+         ^
+1 error
+
+public class Hello {
+    pubic static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    publc static void main(String[] args) {
+         ^
+1 error
+
+public class Hello {
+    publc static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    publi static void main(String[] args) {
+         ^
+1 error
+
+public class Hello {
+    publi static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    publicstatic void main(String[] args) {
+                ^
+Hello.java:2: invalid method declaration; return type required
+    publicstatic void main(String[] args) {
+                      ^
+2 errors
+
+public class Hello {
+    publicstatic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    public tatic void main(String[] args) {
+                ^
+Hello.java:2: invalid method declaration; return type required
+    public tatic void main(String[] args) {
+                      ^
+2 errors
+
+public class Hello {
+    public tatic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    public satic void main(String[] args) {
+                ^
+Hello.java:2: invalid method declaration; return type required
+    public satic void main(String[] args) {
+                      ^
+2 errors
+
+public class Hello {
+    public satic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    public sttic void main(String[] args) {
+                ^
+Hello.java:2: invalid method declaration; return type required
+    public sttic void main(String[] args) {
+                      ^
+2 errors
+
+public class Hello {
+    public sttic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    public staic void main(String[] args) {
+                ^
+Hello.java:2: invalid method declaration; return type required
+    public staic void main(String[] args) {
+                      ^
+2 errors
+
+public class Hello {
+    public staic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    public statc void main(String[] args) {
+                ^
+Hello.java:2: invalid method declaration; return type required
+    public statc void main(String[] args) {
+                      ^
+2 errors
+
+public class Hello {
+    public statc void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    public stati void main(String[] args) {
+                ^
+Hello.java:2: invalid method declaration; return type required
+    public stati void main(String[] args) {
+                      ^
+2 errors
+
+public class Hello {
+    public stati void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class staticvoid
+location: class Hello
+    public staticvoid main(String[] args) {
+           ^
+1 error
+
+public class Hello {
+    public staticvoid main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class oid
+location: class Hello
+    public static oid main(String[] args) {
+                  ^
+1 error
+
+public class Hello {
+    public static oid main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class vid
+location: class Hello
+    public static vid main(String[] args) {
+                  ^
+1 error
+
+public class Hello {
+    public static vid main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class vod
+location: class Hello
+    public static vod main(String[] args) {
+                  ^
+1 error
+
+public class Hello {
+    public static vod main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class voi
+location: class Hello
+    public static voi main(String[] args) {
+                  ^
+1 error
+
+public class Hello {
+    public static voi main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: invalid method declaration; return type required
+    public static voidmain(String[] args) {
+                  ^
+1 error
+
+public class Hello {
+    public static voidmain(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: '(' expected
+    public static void mainString[] args) {
+                                 ^
+Hello.java:2: <identifier> expected
+    public static void mainString[] args) {
+                                        ^
+2 errors
+
+public class Hello {
+    public static void mainString[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class tring
+location: class Hello
+    public static void main(tring[] args) {
+                            ^
+1 error
+
+public class Hello {
+    public static void main(tring[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class Sring
+location: class Hello
+    public static void main(Sring[] args) {
+                            ^
+1 error
+
+public class Hello {
+    public static void main(Sring[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class Sting
+location: class Hello
+    public static void main(Sting[] args) {
+                            ^
+1 error
+
+public class Hello {
+    public static void main(Sting[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class Strng
+location: class Hello
+    public static void main(Strng[] args) {
+                            ^
+1 error
+
+public class Hello {
+    public static void main(Strng[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class Strig
+location: class Hello
+    public static void main(Strig[] args) {
+                            ^
+1 error
+
+public class Hello {
+    public static void main(Strig[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: cannot find symbol
+symbol  : class Strin
+location: class Hello
+    public static void main(Strin[] args) {
+                            ^
+1 error
+
+public class Hello {
+    public static void main(Strin[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> expected
+    public static void main(String] args) {
+                                  ^
+Hello.java:2: ';' expected
+    public static void main(String] args) {
+                                   ^
+Hello.java:2: illegal start of type
+    public static void main(String] args) {
+                                        ^
+Hello.java:2: <identifier> expected
+    public static void main(String] args) {
+                                         ^
+Hello.java:2: ';' expected
+    public static void main(String] args) {
+                                           ^
+Hello.java:3: illegal start of type
+        System.out.println("hello, world");
+              ^
+Hello.java:3: ';' expected
+        System.out.println("hello, world");
+                  ^
+Hello.java:3: invalid method declaration; return type required
+        System.out.println("hello, world");
+                   ^
+Hello.java:3: illegal start of type
+        System.out.println("hello, world");
+                           ^
+Hello.java:5: class, interface, or enum expected
+}
+^
+10 errors
+
+public class Hello {
+    public static void main(String] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: ']' expected
+    public static void main(String[ args) {
+                                   ^
+1 error
+
+public class Hello {
+    public static void main(String[ args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: ')' expected
+    public static void main(String[] args {
+                                         ^
+1 error
+
+public class Hello {
+    public static void main(String[] args {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: ';' expected
+    public static void main(String[] args) 
+                                          ^
+Hello.java:5: class, interface, or enum expected
+}
+^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) 
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: package ystem does not exist
+        ystem.out.println("hello, world");
+             ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        ystem.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: package Sstem does not exist
+        Sstem.out.println("hello, world");
+             ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        Sstem.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: package Sytem does not exist
+        Sytem.out.println("hello, world");
+             ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        Sytem.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: package Sysem does not exist
+        Sysem.out.println("hello, world");
+             ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        Sysem.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: package Systm does not exist
+        Systm.out.println("hello, world");
+             ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        Systm.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: package Syste does not exist
+        Syste.out.println("hello, world");
+             ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        Syste.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : variable Systemout
+location: class Hello
+        Systemout.println("hello, world");
+        ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        Systemout.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : variable ut
+location: class java.lang.System
+        System.ut.println("hello, world");
+              ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.ut.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : variable ot
+location: class java.lang.System
+        System.ot.println("hello, world");
+              ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.ot.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : variable ou
+location: class java.lang.System
+        System.ou.println("hello, world");
+              ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.ou.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : method outprintln(java.lang.String)
+location: class java.lang.System
+        System.outprintln("hello, world");
+              ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.outprintln("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : method rintln(java.lang.String)
+location: class java.io.PrintStream
+        System.out.rintln("hello, world");
+                  ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.rintln("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : method pintln(java.lang.String)
+location: class java.io.PrintStream
+        System.out.pintln("hello, world");
+                  ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.pintln("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : method prntln(java.lang.String)
+location: class java.io.PrintStream
+        System.out.prntln("hello, world");
+                  ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.prntln("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : method pritln(java.lang.String)
+location: class java.io.PrintStream
+        System.out.pritln("hello, world");
+                  ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.pritln("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : method prinln(java.lang.String)
+location: class java.io.PrintStream
+        System.out.prinln("hello, world");
+                  ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.prinln("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : method printn(java.lang.String)
+location: class java.io.PrintStream
+        System.out.printn("hello, world");
+                  ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.printn("hello, world");
+    }
+}
+
+========
+Hello.java:3: cannot find symbol
+symbol  : method printl(java.lang.String)
+location: class java.io.PrintStream
+        System.out.printl("hello, world");
+                  ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.printl("hello, world");
+    }
+}
+
+========
+Hello.java:3: not a statement
+        System.out.println"hello, world");
+                  ^
+Hello.java:3: ';' expected
+        System.out.println"hello, world");
+                          ^
+2 errors
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println"hello, world");
+    }
+}
+
+========
+Hello.java:3: unclosed string literal
+        System.out.println(hello, world");
+                                       ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println(hello, world");
+    }
+}
+
+========
+Hello.java:3: unclosed string literal
+        System.out.println("hello, world);
+                           ^
+Hello.java:3: ';' expected
+        System.out.println("hello, world);
+                                          ^
+Hello.java:5: reached end of file while parsing
+}
+ ^
+3 errors
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world);
+    }
+}
+
+========
+Hello.java:3: ')' expected
+        System.out.println("hello, world";
+                                         ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world";
+    }
+}
+
+========
+Hello.java:3: ';' expected
+        System.out.println("hello, world")
+                                          ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world")
+    }
+}
+
+========
+Hello.java:5: reached end of file while parsing
+}
+ ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    
+}
+
+========
+Hello.java:4: reached end of file while parsing
+    }
+     ^
+1 error
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+
+

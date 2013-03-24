@@ -1,0 +1,3800 @@
+========
+Hello.java:1: class、interface、または enum がありません。
+xpublic class Hello {
+^
+エラー 1 個
+
+xpublic class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+pxublic class Hello {
+^
+エラー 1 個
+
+pxublic class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+puxblic class Hello {
+^
+エラー 1 個
+
+puxblic class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+pubxlic class Hello {
+^
+エラー 1 個
+
+pubxlic class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+publxic class Hello {
+^
+エラー 1 個
+
+publxic class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+publixc class Hello {
+^
+エラー 1 個
+
+publixc class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+publicx class Hello {
+^
+エラー 1 個
+
+publicx class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+public xclass Hello {
+       ^
+Hello.java:2: class、interface、または enum がありません。
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class、interface、または enum がありません。
+    }
+    ^
+エラー 3 個
+
+public xclass Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+public cxlass Hello {
+       ^
+Hello.java:2: class、interface、または enum がありません。
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class、interface、または enum がありません。
+    }
+    ^
+エラー 3 個
+
+public cxlass Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+public clxass Hello {
+       ^
+Hello.java:2: class、interface、または enum がありません。
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class、interface、または enum がありません。
+    }
+    ^
+エラー 3 個
+
+public clxass Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+public claxss Hello {
+       ^
+Hello.java:2: class、interface、または enum がありません。
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class、interface、または enum がありません。
+    }
+    ^
+エラー 3 個
+
+public claxss Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+public clasxs Hello {
+       ^
+Hello.java:2: class、interface、または enum がありません。
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class、interface、または enum がありません。
+    }
+    ^
+エラー 3 個
+
+public clasxs Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+public classx Hello {
+       ^
+Hello.java:2: class、interface、または enum がありません。
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class、interface、または enum がありません。
+    }
+    ^
+エラー 3 個
+
+public classx Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: クラス xHello は public であり、ファイル xHello.java で宣言しなければなりません。
+public class xHello {
+       ^
+エラー 1 個
+
+public class xHello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: クラス Hxello は public であり、ファイル Hxello.java で宣言しなければなりません。
+public class Hxello {
+       ^
+エラー 1 個
+
+public class Hxello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: クラス Hexllo は public であり、ファイル Hexllo.java で宣言しなければなりません。
+public class Hexllo {
+       ^
+エラー 1 個
+
+public class Hexllo {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: クラス Helxlo は public であり、ファイル Helxlo.java で宣言しなければなりません。
+public class Helxlo {
+       ^
+エラー 1 個
+
+public class Helxlo {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: クラス Hellxo は public であり、ファイル Hellxo.java で宣言しなければなりません。
+public class Hellxo {
+       ^
+エラー 1 個
+
+public class Hellxo {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: クラス Hellox は public であり、ファイル Hellox.java で宣言しなければなりません。
+public class Hellox {
+       ^
+エラー 1 個
+
+public class Hellox {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: '{' がありません。
+public class Hello x{
+                  ^
+エラー 1 個
+
+public class Hello x{
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: <identifier> がありません。
+public class Hello {x
+                     ^
+エラー 1 個
+
+public class Hello {x
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+x    public static void main(String[] args) {
+ ^
+エラー 1 個
+
+public class Hello {
+x    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+ x   public static void main(String[] args) {
+  ^
+エラー 1 個
+
+public class Hello {
+ x   public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+  x  public static void main(String[] args) {
+   ^
+エラー 1 個
+
+public class Hello {
+  x  public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+   x public static void main(String[] args) {
+    ^
+エラー 1 個
+
+public class Hello {
+   x public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    xpublic static void main(String[] args) {
+           ^
+エラー 1 個
+
+public class Hello {
+    xpublic static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    pxublic static void main(String[] args) {
+           ^
+エラー 1 個
+
+public class Hello {
+    pxublic static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    puxblic static void main(String[] args) {
+           ^
+エラー 1 個
+
+public class Hello {
+    puxblic static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    pubxlic static void main(String[] args) {
+           ^
+エラー 1 個
+
+public class Hello {
+    pubxlic static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    publxic static void main(String[] args) {
+           ^
+エラー 1 個
+
+public class Hello {
+    publxic static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    publixc static void main(String[] args) {
+           ^
+エラー 1 個
+
+public class Hello {
+    publixc static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    publicx static void main(String[] args) {
+           ^
+エラー 1 個
+
+public class Hello {
+    publicx static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    public xstatic void main(String[] args) {
+                  ^
+Hello.java:2: メソッドの宣言が不正です。戻り値の型が必要です。
+    public xstatic void main(String[] args) {
+                        ^
+エラー 2 個
+
+public class Hello {
+    public xstatic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    public sxtatic void main(String[] args) {
+                  ^
+Hello.java:2: メソッドの宣言が不正です。戻り値の型が必要です。
+    public sxtatic void main(String[] args) {
+                        ^
+エラー 2 個
+
+public class Hello {
+    public sxtatic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    public stxatic void main(String[] args) {
+                  ^
+Hello.java:2: メソッドの宣言が不正です。戻り値の型が必要です。
+    public stxatic void main(String[] args) {
+                        ^
+エラー 2 個
+
+public class Hello {
+    public stxatic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    public staxtic void main(String[] args) {
+                  ^
+Hello.java:2: メソッドの宣言が不正です。戻り値の型が必要です。
+    public staxtic void main(String[] args) {
+                        ^
+エラー 2 個
+
+public class Hello {
+    public staxtic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    public statxic void main(String[] args) {
+                  ^
+Hello.java:2: メソッドの宣言が不正です。戻り値の型が必要です。
+    public statxic void main(String[] args) {
+                        ^
+エラー 2 個
+
+public class Hello {
+    public statxic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    public statixc void main(String[] args) {
+                  ^
+Hello.java:2: メソッドの宣言が不正です。戻り値の型が必要です。
+    public statixc void main(String[] args) {
+                        ^
+エラー 2 個
+
+public class Hello {
+    public statixc void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    public staticx void main(String[] args) {
+                  ^
+Hello.java:2: メソッドの宣言が不正です。戻り値の型が必要です。
+    public staticx void main(String[] args) {
+                        ^
+エラー 2 個
+
+public class Hello {
+    public staticx void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス xvoid
+場所    : Hello の クラス
+    public static xvoid main(String[] args) {
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static xvoid main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス vxoid
+場所    : Hello の クラス
+    public static vxoid main(String[] args) {
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static vxoid main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス voxid
+場所    : Hello の クラス
+    public static voxid main(String[] args) {
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static voxid main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス voixd
+場所    : Hello の クラス
+    public static voixd main(String[] args) {
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static voixd main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス voidx
+場所    : Hello の クラス
+    public static voidx main(String[] args) {
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static voidx main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス xString
+場所    : Hello の クラス
+    public static void main(xString[] args) {
+                            ^
+エラー 1 個
+
+public class Hello {
+    public static void main(xString[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス Sxtring
+場所    : Hello の クラス
+    public static void main(Sxtring[] args) {
+                            ^
+エラー 1 個
+
+public class Hello {
+    public static void main(Sxtring[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス Stxring
+場所    : Hello の クラス
+    public static void main(Stxring[] args) {
+                            ^
+エラー 1 個
+
+public class Hello {
+    public static void main(Stxring[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス Strxing
+場所    : Hello の クラス
+    public static void main(Strxing[] args) {
+                            ^
+エラー 1 個
+
+public class Hello {
+    public static void main(Strxing[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス Strixng
+場所    : Hello の クラス
+    public static void main(Strixng[] args) {
+                            ^
+エラー 1 個
+
+public class Hello {
+    public static void main(Strixng[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス Strinxg
+場所    : Hello の クラス
+    public static void main(Strinxg[] args) {
+                            ^
+エラー 1 個
+
+public class Hello {
+    public static void main(Strinxg[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス Stringx
+場所    : Hello の クラス
+    public static void main(Stringx[] args) {
+                            ^
+エラー 1 個
+
+public class Hello {
+    public static void main(Stringx[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: ']' がありません。
+    public static void main(String[x] args) {
+                                   ^
+Hello.java:2: ')' がありません。
+    public static void main(String[x] args) {
+                                    ^
+Hello.java:2: <identifier> がありません。
+    public static void main(String[x] args) {
+                                          ^
+エラー 3 個
+
+public class Hello {
+    public static void main(String[x] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: ')' がありません。
+    public static void main(String[]x args) {
+                                     ^
+Hello.java:2: 型の開始が不正です。
+    public static void main(String[]x args) {
+                                          ^
+Hello.java:2: <identifier> がありません。
+    public static void main(String[]x args) {
+                                           ^
+Hello.java:2: ';' がありません。
+    public static void main(String[]x args) {
+                                             ^
+Hello.java:3: 型の開始が不正です。
+        System.out.println("hello, world");
+              ^
+Hello.java:3: ';' がありません。
+        System.out.println("hello, world");
+                  ^
+Hello.java:3: メソッドの宣言が不正です。戻り値の型が必要です。
+        System.out.println("hello, world");
+                   ^
+Hello.java:3: 型の開始が不正です。
+        System.out.println("hello, world");
+                           ^
+Hello.java:5: class、interface、または enum がありません。
+}
+^
+エラー 9 個
+
+public class Hello {
+    public static void main(String[]x args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: ';' がありません。
+    public static void main(String[] args)x {
+                                          ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args)x {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: ';' がありません。
+    public static void main(String[] args) x{
+                                          ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) x{
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: ';' がありません。
+        System.out.println("hello, world");
+              ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {x
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: ';' がありません。
+x        System.out.println("hello, world");
+               ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+x        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: ';' がありません。
+ x       System.out.println("hello, world");
+               ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+ x       System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: ';' がありません。
+  x      System.out.println("hello, world");
+               ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+  x      System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: ';' がありません。
+   x     System.out.println("hello, world");
+               ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+   x     System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: ';' がありません。
+    x    System.out.println("hello, world");
+               ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+    x    System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: ';' がありません。
+     x   System.out.println("hello, world");
+               ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+     x   System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: ';' がありません。
+      x  System.out.println("hello, world");
+               ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+      x  System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: ';' がありません。
+       x System.out.println("hello, world");
+               ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+       x System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: パッケージ xSystem は存在しません。
+        xSystem.out.println("hello, world");
+               ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        xSystem.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: パッケージ Sxystem は存在しません。
+        Sxystem.out.println("hello, world");
+               ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        Sxystem.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: パッケージ Syxstem は存在しません。
+        Syxstem.out.println("hello, world");
+               ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        Syxstem.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: パッケージ Sysxtem は存在しません。
+        Sysxtem.out.println("hello, world");
+               ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        Sysxtem.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: パッケージ Systxem は存在しません。
+        Systxem.out.println("hello, world");
+               ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        Systxem.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: パッケージ Systexm は存在しません。
+        Systexm.out.println("hello, world");
+               ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        Systexm.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: パッケージ Systemx は存在しません。
+        Systemx.out.println("hello, world");
+               ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        Systemx.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: 変数 xout
+場所    : java.lang.System の クラス
+        System.xout.println("hello, world");
+              ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.xout.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: 変数 oxut
+場所    : java.lang.System の クラス
+        System.oxut.println("hello, world");
+              ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.oxut.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: 変数 ouxt
+場所    : java.lang.System の クラス
+        System.ouxt.println("hello, world");
+              ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.ouxt.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: 変数 outx
+場所    : java.lang.System の クラス
+        System.outx.println("hello, world");
+              ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.outx.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: メソッド xprintln(java.lang.String)
+場所    : java.io.PrintStream の クラス
+        System.out.xprintln("hello, world");
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.xprintln("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: メソッド pxrintln(java.lang.String)
+場所    : java.io.PrintStream の クラス
+        System.out.pxrintln("hello, world");
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.pxrintln("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: メソッド prxintln(java.lang.String)
+場所    : java.io.PrintStream の クラス
+        System.out.prxintln("hello, world");
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.prxintln("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: メソッド prixntln(java.lang.String)
+場所    : java.io.PrintStream の クラス
+        System.out.prixntln("hello, world");
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.prixntln("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: メソッド prinxtln(java.lang.String)
+場所    : java.io.PrintStream の クラス
+        System.out.prinxtln("hello, world");
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.prinxtln("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: メソッド printxln(java.lang.String)
+場所    : java.io.PrintStream の クラス
+        System.out.printxln("hello, world");
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.printxln("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: メソッド printlxn(java.lang.String)
+場所    : java.io.PrintStream の クラス
+        System.out.printlxn("hello, world");
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.printlxn("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: メソッド printlnx(java.lang.String)
+場所    : java.io.PrintStream の クラス
+        System.out.printlnx("hello, world");
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.printlnx("hello, world");
+    }
+}
+
+========
+Hello.java:3: ')' がありません。
+        System.out.println(x"hello, world");
+                            ^
+Hello.java:3: 式の開始が不正です。
+        System.out.println(x"hello, world");
+                                          ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println(x"hello, world");
+    }
+}
+
+========
+Hello.java:3: ')' がありません。
+        System.out.println("hello, world"x);
+                                         ^
+Hello.java:3: 式の開始が不正です。
+        System.out.println("hello, world"x);
+                                          ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world"x);
+    }
+}
+
+========
+Hello.java:3: ';' がありません。
+        System.out.println("hello, world")x;
+                                          ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world")x;
+    }
+}
+
+========
+Hello.java:3: 文ではありません。
+        System.out.println("hello, world");x
+                                           ^
+Hello.java:3: ';' がありません。
+        System.out.println("hello, world");x
+                                            ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");x
+    }
+}
+
+========
+Hello.java:4: 文ではありません。
+x    }
+^
+Hello.java:4: ';' がありません。
+x    }
+ ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+x    }
+}
+
+========
+Hello.java:4: 文ではありません。
+ x   }
+ ^
+Hello.java:4: ';' がありません。
+ x   }
+  ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+ x   }
+}
+
+========
+Hello.java:4: 文ではありません。
+  x  }
+  ^
+Hello.java:4: ';' がありません。
+  x  }
+   ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+  x  }
+}
+
+========
+Hello.java:4: 文ではありません。
+   x }
+   ^
+Hello.java:4: ';' がありません。
+   x }
+    ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+   x }
+}
+
+========
+Hello.java:4: 文ではありません。
+    x}
+    ^
+Hello.java:4: ';' がありません。
+    x}
+     ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    x}
+}
+
+========
+Hello.java:4: <identifier> がありません。
+    }x
+      ^
+Hello.java:5: 構文解析中にファイルの終わりに移りました
+}
+ ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }x
+}
+
+========
+Hello.java:5: <identifier> がありません。
+x}
+ ^
+Hello.java:5: 構文解析中にファイルの終わりに移りました
+x}
+  ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+x}
+
+========
+Hello.java:5: 構文解析中にファイルの終わりに移りました
+}x
+ ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}x
+
+========
+Hello.java:1: class、interface、または enum がありません。
+1public class Hello {
+^
+エラー 1 個
+
+1public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+p1ublic class Hello {
+^
+エラー 1 個
+
+p1ublic class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+pu1blic class Hello {
+^
+エラー 1 個
+
+pu1blic class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+pub1lic class Hello {
+^
+エラー 1 個
+
+pub1lic class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+publ1ic class Hello {
+^
+エラー 1 個
+
+publ1ic class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+publi1c class Hello {
+^
+エラー 1 個
+
+publi1c class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+public1 class Hello {
+^
+エラー 1 個
+
+public1 class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+public 1class Hello {
+       ^
+エラー 1 個
+
+public 1class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+public c1lass Hello {
+       ^
+Hello.java:2: class、interface、または enum がありません。
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class、interface、または enum がありません。
+    }
+    ^
+エラー 3 個
+
+public c1lass Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+public cl1ass Hello {
+       ^
+Hello.java:2: class、interface、または enum がありません。
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class、interface、または enum がありません。
+    }
+    ^
+エラー 3 個
+
+public cl1ass Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+public cla1ss Hello {
+       ^
+Hello.java:2: class、interface、または enum がありません。
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class、interface、または enum がありません。
+    }
+    ^
+エラー 3 個
+
+public cla1ss Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+public clas1s Hello {
+       ^
+Hello.java:2: class、interface、または enum がありません。
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class、interface、または enum がありません。
+    }
+    ^
+エラー 3 個
+
+public clas1s Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+public class1 Hello {
+       ^
+Hello.java:2: class、interface、または enum がありません。
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class、interface、または enum がありません。
+    }
+    ^
+エラー 3 個
+
+public class1 Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: <identifier> がありません。
+public class 1Hello {
+            ^
+Hello.java:1: <identifier> がありません。
+public class 1Hello {
+                   ^
+エラー 2 個
+
+public class 1Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: クラス H1ello は public であり、ファイル H1ello.java で宣言しなければなりません。
+public class H1ello {
+       ^
+エラー 1 個
+
+public class H1ello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: クラス He1llo は public であり、ファイル He1llo.java で宣言しなければなりません。
+public class He1llo {
+       ^
+エラー 1 個
+
+public class He1llo {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: クラス Hel1lo は public であり、ファイル Hel1lo.java で宣言しなければなりません。
+public class Hel1lo {
+       ^
+エラー 1 個
+
+public class Hel1lo {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: クラス Hell1o は public であり、ファイル Hell1o.java で宣言しなければなりません。
+public class Hell1o {
+       ^
+エラー 1 個
+
+public class Hell1o {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: クラス Hello1 は public であり、ファイル Hello1.java で宣言しなければなりません。
+public class Hello1 {
+       ^
+エラー 1 個
+
+public class Hello1 {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: '{' がありません。
+public class Hello 1{
+                  ^
+エラー 1 個
+
+public class Hello 1{
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: 型の開始が不正です。
+public class Hello {1
+                    ^
+Hello.java:1: ';' がありません。
+public class Hello {1
+                     ^
+エラー 2 個
+
+public class Hello {1
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: 型の開始が不正です。
+1    public static void main(String[] args) {
+^
+Hello.java:2: ';' がありません。
+1    public static void main(String[] args) {
+ ^
+エラー 2 個
+
+public class Hello {
+1    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: 型の開始が不正です。
+ 1   public static void main(String[] args) {
+ ^
+Hello.java:2: ';' がありません。
+ 1   public static void main(String[] args) {
+  ^
+エラー 2 個
+
+public class Hello {
+ 1   public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: 型の開始が不正です。
+  1  public static void main(String[] args) {
+  ^
+Hello.java:2: ';' がありません。
+  1  public static void main(String[] args) {
+   ^
+エラー 2 個
+
+public class Hello {
+  1  public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: 型の開始が不正です。
+   1 public static void main(String[] args) {
+   ^
+Hello.java:2: ';' がありません。
+   1 public static void main(String[] args) {
+    ^
+エラー 2 個
+
+public class Hello {
+   1 public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: 型の開始が不正です。
+    1public static void main(String[] args) {
+    ^
+Hello.java:2: ';' がありません。
+    1public static void main(String[] args) {
+     ^
+エラー 2 個
+
+public class Hello {
+    1public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    p1ublic static void main(String[] args) {
+           ^
+エラー 1 個
+
+public class Hello {
+    p1ublic static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    pu1blic static void main(String[] args) {
+           ^
+エラー 1 個
+
+public class Hello {
+    pu1blic static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    pub1lic static void main(String[] args) {
+           ^
+エラー 1 個
+
+public class Hello {
+    pub1lic static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    publ1ic static void main(String[] args) {
+           ^
+エラー 1 個
+
+public class Hello {
+    publ1ic static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    publi1c static void main(String[] args) {
+           ^
+エラー 1 個
+
+public class Hello {
+    publi1c static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    public1 static void main(String[] args) {
+           ^
+エラー 1 個
+
+public class Hello {
+    public1 static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: 型の開始が不正です。
+    public 1static void main(String[] args) {
+           ^
+Hello.java:2: ';' がありません。
+    public 1static void main(String[] args) {
+            ^
+エラー 2 個
+
+public class Hello {
+    public 1static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    public s1tatic void main(String[] args) {
+                  ^
+Hello.java:2: メソッドの宣言が不正です。戻り値の型が必要です。
+    public s1tatic void main(String[] args) {
+                        ^
+エラー 2 個
+
+public class Hello {
+    public s1tatic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    public st1atic void main(String[] args) {
+                  ^
+Hello.java:2: メソッドの宣言が不正です。戻り値の型が必要です。
+    public st1atic void main(String[] args) {
+                        ^
+エラー 2 個
+
+public class Hello {
+    public st1atic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    public sta1tic void main(String[] args) {
+                  ^
+Hello.java:2: メソッドの宣言が不正です。戻り値の型が必要です。
+    public sta1tic void main(String[] args) {
+                        ^
+エラー 2 個
+
+public class Hello {
+    public sta1tic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    public stat1ic void main(String[] args) {
+                  ^
+Hello.java:2: メソッドの宣言が不正です。戻り値の型が必要です。
+    public stat1ic void main(String[] args) {
+                        ^
+エラー 2 個
+
+public class Hello {
+    public stat1ic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    public stati1c void main(String[] args) {
+                  ^
+Hello.java:2: メソッドの宣言が不正です。戻り値の型が必要です。
+    public stati1c void main(String[] args) {
+                        ^
+エラー 2 個
+
+public class Hello {
+    public stati1c void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    public static1 void main(String[] args) {
+                  ^
+Hello.java:2: メソッドの宣言が不正です。戻り値の型が必要です。
+    public static1 void main(String[] args) {
+                        ^
+エラー 2 個
+
+public class Hello {
+    public static1 void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: 型の開始が不正です。
+    public static 1void main(String[] args) {
+                  ^
+Hello.java:2: ';' がありません。
+    public static 1void main(String[] args) {
+                   ^
+Hello.java:2: メソッドの宣言が不正です。戻り値の型が必要です。
+    public static 1void main(String[] args) {
+                        ^
+エラー 3 個
+
+public class Hello {
+    public static 1void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス v1oid
+場所    : Hello の クラス
+    public static v1oid main(String[] args) {
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static v1oid main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス vo1id
+場所    : Hello の クラス
+    public static vo1id main(String[] args) {
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static vo1id main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス voi1d
+場所    : Hello の クラス
+    public static voi1d main(String[] args) {
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static voi1d main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス void1
+場所    : Hello の クラス
+    public static void1 main(String[] args) {
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static void1 main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    public static void 1main(String[] args) {
+                      ^
+Hello.java:2: '(' がありません。
+    public static void 1main(String[] args) {
+                       ^
+Hello.java:2: メソッドの宣言が不正です。戻り値の型が必要です。
+    public static void 1main(String[] args) {
+                        ^
+エラー 3 個
+
+public class Hello {
+    public static void 1main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: 型の開始が不正です。
+    public static void main(1String[] args) {
+                            ^
+Hello.java:2: ')' がありません。
+    public static void main(1String[] args) {
+                             ^
+Hello.java:2: ';' がありません。
+    public static void main(1String[] args) {
+                                   ^
+Hello.java:2: 型の開始が不正です。
+    public static void main(1String[] args) {
+                                    ^
+Hello.java:2: ';' がありません。
+    public static void main(1String[] args) {
+                                          ^
+エラー 5 個
+
+public class Hello {
+    public static void main(1String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス S1tring
+場所    : Hello の クラス
+    public static void main(S1tring[] args) {
+                            ^
+エラー 1 個
+
+public class Hello {
+    public static void main(S1tring[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス St1ring
+場所    : Hello の クラス
+    public static void main(St1ring[] args) {
+                            ^
+エラー 1 個
+
+public class Hello {
+    public static void main(St1ring[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス Str1ing
+場所    : Hello の クラス
+    public static void main(Str1ing[] args) {
+                            ^
+エラー 1 個
+
+public class Hello {
+    public static void main(Str1ing[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス Stri1ng
+場所    : Hello の クラス
+    public static void main(Stri1ng[] args) {
+                            ^
+エラー 1 個
+
+public class Hello {
+    public static void main(Stri1ng[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス Strin1g
+場所    : Hello の クラス
+    public static void main(Strin1g[] args) {
+                            ^
+エラー 1 個
+
+public class Hello {
+    public static void main(Strin1g[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス String1
+場所    : Hello の クラス
+    public static void main(String1[] args) {
+                            ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String1[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: ']' がありません。
+    public static void main(String[1] args) {
+                                   ^
+Hello.java:2: ')' がありません。
+    public static void main(String[1] args) {
+                                    ^
+Hello.java:2: ';' がありません。
+    public static void main(String[1] args) {
+                                     ^
+Hello.java:2: 型の開始が不正です。
+    public static void main(String[1] args) {
+                                          ^
+Hello.java:2: <identifier> がありません。
+    public static void main(String[1] args) {
+                                           ^
+Hello.java:2: ';' がありません。
+    public static void main(String[1] args) {
+                                             ^
+Hello.java:3: 型の開始が不正です。
+        System.out.println("hello, world");
+              ^
+Hello.java:3: ';' がありません。
+        System.out.println("hello, world");
+                  ^
+Hello.java:3: メソッドの宣言が不正です。戻り値の型が必要です。
+        System.out.println("hello, world");
+                   ^
+Hello.java:3: 型の開始が不正です。
+        System.out.println("hello, world");
+                           ^
+Hello.java:5: class、interface、または enum がありません。
+}
+^
+エラー 11 個
+
+public class Hello {
+    public static void main(String[1] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    public static void main(String[]1 args) {
+                                    ^
+Hello.java:2: ';' がありません。
+    public static void main(String[]1 args) {
+                                     ^
+Hello.java:2: 型の開始が不正です。
+    public static void main(String[]1 args) {
+                                          ^
+Hello.java:2: <identifier> がありません。
+    public static void main(String[]1 args) {
+                                           ^
+Hello.java:2: ';' がありません。
+    public static void main(String[]1 args) {
+                                             ^
+Hello.java:3: 型の開始が不正です。
+        System.out.println("hello, world");
+              ^
+Hello.java:3: ';' がありません。
+        System.out.println("hello, world");
+                  ^
+Hello.java:3: メソッドの宣言が不正です。戻り値の型が必要です。
+        System.out.println("hello, world");
+                   ^
+Hello.java:3: 型の開始が不正です。
+        System.out.println("hello, world");
+                           ^
+Hello.java:5: class、interface、または enum がありません。
+}
+^
+エラー 10 個
+
+public class Hello {
+    public static void main(String[]1 args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    public static void main(String[] 1args) {
+                                    ^
+Hello.java:2: ';' がありません。
+    public static void main(String[] 1args) {
+                                      ^
+Hello.java:2: 型の開始が不正です。
+    public static void main(String[] 1args) {
+                                          ^
+Hello.java:2: <identifier> がありません。
+    public static void main(String[] 1args) {
+                                           ^
+Hello.java:2: ';' がありません。
+    public static void main(String[] 1args) {
+                                             ^
+Hello.java:3: 型の開始が不正です。
+        System.out.println("hello, world");
+              ^
+Hello.java:3: ';' がありません。
+        System.out.println("hello, world");
+                  ^
+Hello.java:3: メソッドの宣言が不正です。戻り値の型が必要です。
+        System.out.println("hello, world");
+                   ^
+Hello.java:3: 型の開始が不正です。
+        System.out.println("hello, world");
+                           ^
+Hello.java:5: class、interface、または enum がありません。
+}
+^
+エラー 10 個
+
+public class Hello {
+    public static void main(String[] 1args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: ';' がありません。
+    public static void main(String[] args)1 {
+                                          ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args)1 {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: ';' がありません。
+    public static void main(String[] args) 1{
+                                          ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) 1{
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: 文ではありません。
+    public static void main(String[] args) {1
+                                            ^
+Hello.java:2: ';' がありません。
+    public static void main(String[] args) {1
+                                             ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {1
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: 文ではありません。
+1        System.out.println("hello, world");
+^
+Hello.java:3: ';' がありません。
+1        System.out.println("hello, world");
+ ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+1        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: 文ではありません。
+ 1       System.out.println("hello, world");
+ ^
+Hello.java:3: ';' がありません。
+ 1       System.out.println("hello, world");
+  ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+ 1       System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: 文ではありません。
+  1      System.out.println("hello, world");
+  ^
+Hello.java:3: ';' がありません。
+  1      System.out.println("hello, world");
+   ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+  1      System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: 文ではありません。
+   1     System.out.println("hello, world");
+   ^
+Hello.java:3: ';' がありません。
+   1     System.out.println("hello, world");
+    ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+   1     System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: 文ではありません。
+    1    System.out.println("hello, world");
+    ^
+Hello.java:3: ';' がありません。
+    1    System.out.println("hello, world");
+     ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+    1    System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: 文ではありません。
+     1   System.out.println("hello, world");
+     ^
+Hello.java:3: ';' がありません。
+     1   System.out.println("hello, world");
+      ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+     1   System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: 文ではありません。
+      1  System.out.println("hello, world");
+      ^
+Hello.java:3: ';' がありません。
+      1  System.out.println("hello, world");
+       ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+      1  System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: 文ではありません。
+       1 System.out.println("hello, world");
+       ^
+Hello.java:3: ';' がありません。
+       1 System.out.println("hello, world");
+        ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+       1 System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: 文ではありません。
+        1System.out.println("hello, world");
+        ^
+Hello.java:3: ';' がありません。
+        1System.out.println("hello, world");
+         ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+        1System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: パッケージ S1ystem は存在しません。
+        S1ystem.out.println("hello, world");
+               ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        S1ystem.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: パッケージ Sy1stem は存在しません。
+        Sy1stem.out.println("hello, world");
+               ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        Sy1stem.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: パッケージ Sys1tem は存在しません。
+        Sys1tem.out.println("hello, world");
+               ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        Sys1tem.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: パッケージ Syst1em は存在しません。
+        Syst1em.out.println("hello, world");
+               ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        Syst1em.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: パッケージ Syste1m は存在しません。
+        Syste1m.out.println("hello, world");
+               ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        Syste1m.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: パッケージ System1 は存在しません。
+        System1.out.println("hello, world");
+               ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System1.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: 文ではありません。
+        System.1out.println("hello, world");
+        ^
+Hello.java:3: ';' がありません。
+        System.1out.println("hello, world");
+              ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.1out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: 変数 o1ut
+場所    : java.lang.System の クラス
+        System.o1ut.println("hello, world");
+              ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.o1ut.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: 変数 ou1t
+場所    : java.lang.System の クラス
+        System.ou1t.println("hello, world");
+              ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.ou1t.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: 変数 out1
+場所    : java.lang.System の クラス
+        System.out1.println("hello, world");
+              ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out1.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: 文ではありません。
+        System.out.1println("hello, world");
+              ^
+Hello.java:3: ';' がありません。
+        System.out.1println("hello, world");
+                  ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.1println("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: メソッド p1rintln(java.lang.String)
+場所    : java.io.PrintStream の クラス
+        System.out.p1rintln("hello, world");
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.p1rintln("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: メソッド pr1intln(java.lang.String)
+場所    : java.io.PrintStream の クラス
+        System.out.pr1intln("hello, world");
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.pr1intln("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: メソッド pri1ntln(java.lang.String)
+場所    : java.io.PrintStream の クラス
+        System.out.pri1ntln("hello, world");
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.pri1ntln("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: メソッド prin1tln(java.lang.String)
+場所    : java.io.PrintStream の クラス
+        System.out.prin1tln("hello, world");
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.prin1tln("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: メソッド print1ln(java.lang.String)
+場所    : java.io.PrintStream の クラス
+        System.out.print1ln("hello, world");
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.print1ln("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: メソッド printl1n(java.lang.String)
+場所    : java.io.PrintStream の クラス
+        System.out.printl1n("hello, world");
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.printl1n("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: メソッド println1(java.lang.String)
+場所    : java.io.PrintStream の クラス
+        System.out.println1("hello, world");
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println1("hello, world");
+    }
+}
+
+========
+Hello.java:3: ')' がありません。
+        System.out.println(1"hello, world");
+                            ^
+Hello.java:3: 式の開始が不正です。
+        System.out.println(1"hello, world");
+                                          ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println(1"hello, world");
+    }
+}
+
+========
+Hello.java:3: ')' がありません。
+        System.out.println("hello, world"1);
+                                         ^
+Hello.java:3: 式の開始が不正です。
+        System.out.println("hello, world"1);
+                                          ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world"1);
+    }
+}
+
+========
+Hello.java:3: ';' がありません。
+        System.out.println("hello, world")1;
+                                          ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world")1;
+    }
+}
+
+========
+Hello.java:3: 文ではありません。
+        System.out.println("hello, world");1
+                                           ^
+Hello.java:3: ';' がありません。
+        System.out.println("hello, world");1
+                                            ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");1
+    }
+}
+
+========
+Hello.java:4: 文ではありません。
+1    }
+^
+Hello.java:4: ';' がありません。
+1    }
+ ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+1    }
+}
+
+========
+Hello.java:4: 文ではありません。
+ 1   }
+ ^
+Hello.java:4: ';' がありません。
+ 1   }
+  ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+ 1   }
+}
+
+========
+Hello.java:4: 文ではありません。
+  1  }
+  ^
+Hello.java:4: ';' がありません。
+  1  }
+   ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+  1  }
+}
+
+========
+Hello.java:4: 文ではありません。
+   1 }
+   ^
+Hello.java:4: ';' がありません。
+   1 }
+    ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+   1 }
+}
+
+========
+Hello.java:4: 文ではありません。
+    1}
+    ^
+Hello.java:4: ';' がありません。
+    1}
+     ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    1}
+}
+
+========
+Hello.java:4: 型の開始が不正です。
+    }1
+     ^
+Hello.java:4: ';' がありません。
+    }1
+      ^
+Hello.java:5: 構文解析中にファイルの終わりに移りました
+}
+ ^
+エラー 3 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }1
+}
+
+========
+Hello.java:5: 型の開始が不正です。
+1}
+^
+Hello.java:5: ';' がありません。
+1}
+ ^
+Hello.java:5: 構文解析中にファイルの終わりに移りました
+1}
+  ^
+エラー 3 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+1}
+
+========
+Hello.java:5: class、interface、または enum がありません。
+}1
+ ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}1
+
+========
+Hello.java:1: class、interface、または enum がありません。
+ublic class Hello {
+^
+エラー 1 個
+
+ublic class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+pblic class Hello {
+^
+エラー 1 個
+
+pblic class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+pulic class Hello {
+^
+エラー 1 個
+
+pulic class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+pubic class Hello {
+^
+エラー 1 個
+
+pubic class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+publc class Hello {
+^
+エラー 1 個
+
+publc class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+publi class Hello {
+^
+エラー 1 個
+
+publi class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+publicclass Hello {
+^
+Hello.java:2: class、interface、または enum がありません。
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class、interface、または enum がありません。
+    }
+    ^
+エラー 3 個
+
+publicclass Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+public lass Hello {
+       ^
+Hello.java:2: class、interface、または enum がありません。
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class、interface、または enum がありません。
+    }
+    ^
+エラー 3 個
+
+public lass Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+public cass Hello {
+       ^
+Hello.java:2: class、interface、または enum がありません。
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class、interface、または enum がありません。
+    }
+    ^
+エラー 3 個
+
+public cass Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+public clss Hello {
+       ^
+Hello.java:2: class、interface、または enum がありません。
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class、interface、または enum がありません。
+    }
+    ^
+エラー 3 個
+
+public clss Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+public clas Hello {
+       ^
+Hello.java:2: class、interface、または enum がありません。
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class、interface、または enum がありません。
+    }
+    ^
+エラー 3 個
+
+public clas Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+public clas Hello {
+       ^
+Hello.java:2: class、interface、または enum がありません。
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class、interface、または enum がありません。
+    }
+    ^
+エラー 3 個
+
+public clas Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: class、interface、または enum がありません。
+public classHello {
+       ^
+Hello.java:2: class、interface、または enum がありません。
+    public static void main(String[] args) {
+                  ^
+Hello.java:4: class、interface、または enum がありません。
+    }
+    ^
+エラー 3 個
+
+public classHello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: クラス ello は public であり、ファイル ello.java で宣言しなければなりません。
+public class ello {
+       ^
+エラー 1 個
+
+public class ello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: クラス Hllo は public であり、ファイル Hllo.java で宣言しなければなりません。
+public class Hllo {
+       ^
+エラー 1 個
+
+public class Hllo {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: クラス Helo は public であり、ファイル Helo.java で宣言しなければなりません。
+public class Helo {
+       ^
+エラー 1 個
+
+public class Helo {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: クラス Helo は public であり、ファイル Helo.java で宣言しなければなりません。
+public class Helo {
+       ^
+エラー 1 個
+
+public class Helo {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: クラス Hell は public であり、ファイル Hell.java で宣言しなければなりません。
+public class Hell {
+       ^
+エラー 1 個
+
+public class Hell {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:1: '{' がありません。
+public class Hello 
+                  ^
+エラー 1 個
+
+public class Hello 
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    ublic static void main(String[] args) {
+         ^
+エラー 1 個
+
+public class Hello {
+    ublic static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    pblic static void main(String[] args) {
+         ^
+エラー 1 個
+
+public class Hello {
+    pblic static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    pulic static void main(String[] args) {
+         ^
+エラー 1 個
+
+public class Hello {
+    pulic static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    pubic static void main(String[] args) {
+         ^
+エラー 1 個
+
+public class Hello {
+    pubic static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    publc static void main(String[] args) {
+         ^
+エラー 1 個
+
+public class Hello {
+    publc static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    publi static void main(String[] args) {
+         ^
+エラー 1 個
+
+public class Hello {
+    publi static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    publicstatic void main(String[] args) {
+                ^
+Hello.java:2: メソッドの宣言が不正です。戻り値の型が必要です。
+    publicstatic void main(String[] args) {
+                      ^
+エラー 2 個
+
+public class Hello {
+    publicstatic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    public tatic void main(String[] args) {
+                ^
+Hello.java:2: メソッドの宣言が不正です。戻り値の型が必要です。
+    public tatic void main(String[] args) {
+                      ^
+エラー 2 個
+
+public class Hello {
+    public tatic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    public satic void main(String[] args) {
+                ^
+Hello.java:2: メソッドの宣言が不正です。戻り値の型が必要です。
+    public satic void main(String[] args) {
+                      ^
+エラー 2 個
+
+public class Hello {
+    public satic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    public sttic void main(String[] args) {
+                ^
+Hello.java:2: メソッドの宣言が不正です。戻り値の型が必要です。
+    public sttic void main(String[] args) {
+                      ^
+エラー 2 個
+
+public class Hello {
+    public sttic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    public staic void main(String[] args) {
+                ^
+Hello.java:2: メソッドの宣言が不正です。戻り値の型が必要です。
+    public staic void main(String[] args) {
+                      ^
+エラー 2 個
+
+public class Hello {
+    public staic void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    public statc void main(String[] args) {
+                ^
+Hello.java:2: メソッドの宣言が不正です。戻り値の型が必要です。
+    public statc void main(String[] args) {
+                      ^
+エラー 2 個
+
+public class Hello {
+    public statc void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    public stati void main(String[] args) {
+                ^
+Hello.java:2: メソッドの宣言が不正です。戻り値の型が必要です。
+    public stati void main(String[] args) {
+                      ^
+エラー 2 個
+
+public class Hello {
+    public stati void main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス staticvoid
+場所    : Hello の クラス
+    public staticvoid main(String[] args) {
+           ^
+エラー 1 個
+
+public class Hello {
+    public staticvoid main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス oid
+場所    : Hello の クラス
+    public static oid main(String[] args) {
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static oid main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス vid
+場所    : Hello の クラス
+    public static vid main(String[] args) {
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static vid main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス vod
+場所    : Hello の クラス
+    public static vod main(String[] args) {
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static vod main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス voi
+場所    : Hello の クラス
+    public static voi main(String[] args) {
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static voi main(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: メソッドの宣言が不正です。戻り値の型が必要です。
+    public static voidmain(String[] args) {
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static voidmain(String[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: '(' がありません。
+    public static void mainString[] args) {
+                                 ^
+Hello.java:2: <identifier> がありません。
+    public static void mainString[] args) {
+                                        ^
+エラー 2 個
+
+public class Hello {
+    public static void mainString[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス tring
+場所    : Hello の クラス
+    public static void main(tring[] args) {
+                            ^
+エラー 1 個
+
+public class Hello {
+    public static void main(tring[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス Sring
+場所    : Hello の クラス
+    public static void main(Sring[] args) {
+                            ^
+エラー 1 個
+
+public class Hello {
+    public static void main(Sring[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス Sting
+場所    : Hello の クラス
+    public static void main(Sting[] args) {
+                            ^
+エラー 1 個
+
+public class Hello {
+    public static void main(Sting[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス Strng
+場所    : Hello の クラス
+    public static void main(Strng[] args) {
+                            ^
+エラー 1 個
+
+public class Hello {
+    public static void main(Strng[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス Strig
+場所    : Hello の クラス
+    public static void main(Strig[] args) {
+                            ^
+エラー 1 個
+
+public class Hello {
+    public static void main(Strig[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: シンボルを見つけられません。
+シンボル: クラス Strin
+場所    : Hello の クラス
+    public static void main(Strin[] args) {
+                            ^
+エラー 1 個
+
+public class Hello {
+    public static void main(Strin[] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: <identifier> がありません。
+    public static void main(String] args) {
+                                  ^
+Hello.java:2: ';' がありません。
+    public static void main(String] args) {
+                                   ^
+Hello.java:2: 型の開始が不正です。
+    public static void main(String] args) {
+                                        ^
+Hello.java:2: <identifier> がありません。
+    public static void main(String] args) {
+                                         ^
+Hello.java:2: ';' がありません。
+    public static void main(String] args) {
+                                           ^
+Hello.java:3: 型の開始が不正です。
+        System.out.println("hello, world");
+              ^
+Hello.java:3: ';' がありません。
+        System.out.println("hello, world");
+                  ^
+Hello.java:3: メソッドの宣言が不正です。戻り値の型が必要です。
+        System.out.println("hello, world");
+                   ^
+Hello.java:3: 型の開始が不正です。
+        System.out.println("hello, world");
+                           ^
+Hello.java:5: class、interface、または enum がありません。
+}
+^
+エラー 10 個
+
+public class Hello {
+    public static void main(String] args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: ']' がありません。
+    public static void main(String[ args) {
+                                   ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[ args) {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: ')' がありません。
+    public static void main(String[] args {
+                                         ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args {
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:2: ';' がありません。
+    public static void main(String[] args) 
+                                          ^
+Hello.java:5: class、interface、または enum がありません。
+}
+^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) 
+        System.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: パッケージ ystem は存在しません。
+        ystem.out.println("hello, world");
+             ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        ystem.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: パッケージ Sstem は存在しません。
+        Sstem.out.println("hello, world");
+             ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        Sstem.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: パッケージ Sytem は存在しません。
+        Sytem.out.println("hello, world");
+             ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        Sytem.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: パッケージ Sysem は存在しません。
+        Sysem.out.println("hello, world");
+             ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        Sysem.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: パッケージ Systm は存在しません。
+        Systm.out.println("hello, world");
+             ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        Systm.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: パッケージ Syste は存在しません。
+        Syste.out.println("hello, world");
+             ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        Syste.out.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: 変数 Systemout
+場所    : Hello の クラス
+        Systemout.println("hello, world");
+        ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        Systemout.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: 変数 ut
+場所    : java.lang.System の クラス
+        System.ut.println("hello, world");
+              ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.ut.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: 変数 ot
+場所    : java.lang.System の クラス
+        System.ot.println("hello, world");
+              ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.ot.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: 変数 ou
+場所    : java.lang.System の クラス
+        System.ou.println("hello, world");
+              ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.ou.println("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: メソッド outprintln(java.lang.String)
+場所    : java.lang.System の クラス
+        System.outprintln("hello, world");
+              ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.outprintln("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: メソッド rintln(java.lang.String)
+場所    : java.io.PrintStream の クラス
+        System.out.rintln("hello, world");
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.rintln("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: メソッド pintln(java.lang.String)
+場所    : java.io.PrintStream の クラス
+        System.out.pintln("hello, world");
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.pintln("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: メソッド prntln(java.lang.String)
+場所    : java.io.PrintStream の クラス
+        System.out.prntln("hello, world");
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.prntln("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: メソッド pritln(java.lang.String)
+場所    : java.io.PrintStream の クラス
+        System.out.pritln("hello, world");
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.pritln("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: メソッド prinln(java.lang.String)
+場所    : java.io.PrintStream の クラス
+        System.out.prinln("hello, world");
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.prinln("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: メソッド printn(java.lang.String)
+場所    : java.io.PrintStream の クラス
+        System.out.printn("hello, world");
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.printn("hello, world");
+    }
+}
+
+========
+Hello.java:3: シンボルを見つけられません。
+シンボル: メソッド printl(java.lang.String)
+場所    : java.io.PrintStream の クラス
+        System.out.printl("hello, world");
+                  ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.printl("hello, world");
+    }
+}
+
+========
+Hello.java:3: 文ではありません。
+        System.out.println"hello, world");
+                  ^
+Hello.java:3: ';' がありません。
+        System.out.println"hello, world");
+                          ^
+エラー 2 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println"hello, world");
+    }
+}
+
+========
+Hello.java:3: 文字列リテラルが閉じられていません。
+        System.out.println(hello, world");
+                                       ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println(hello, world");
+    }
+}
+
+========
+Hello.java:3: 文字列リテラルが閉じられていません。
+        System.out.println("hello, world);
+                           ^
+Hello.java:3: ';' がありません。
+        System.out.println("hello, world);
+                                          ^
+Hello.java:5: 構文解析中にファイルの終わりに移りました
+}
+ ^
+エラー 3 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world);
+    }
+}
+
+========
+Hello.java:3: ')' がありません。
+        System.out.println("hello, world";
+                                         ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world";
+    }
+}
+
+========
+Hello.java:3: ';' がありません。
+        System.out.println("hello, world")
+                                          ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world")
+    }
+}
+
+========
+Hello.java:5: 構文解析中にファイルの終わりに移りました
+}
+ ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    
+}
+
+========
+Hello.java:4: 構文解析中にファイルの終わりに移りました
+    }
+     ^
+エラー 1 個
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello, world");
+    }
+
+

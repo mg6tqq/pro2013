@@ -1,0 +1,33 @@
+'(' expected
+')' expected
+';' expected
+']' expected
+'{' expected
+<identifier> expected
+cannot find symbol
+class $1 is public, should be declared in a file named $1.java
+class, interface, or enum expected
+illegal start of expression
+illegal start of type
+invalid method declaration; return type required
+not a statement
+package $1 does not exist
+reached end of file while parsing
+unclosed string literal
+
+'(' がありません。
+')' がありません。
+';' がありません。
+']' がありません。
+'{' がありません。
+<identifier> がありません。
+class、interface、または enum がありません。
+クラス $1 は public であり、ファイル $1.java で宣言しなければなりません。
+パッケージ $1 は存在しません。
+文ではありません。
+型の開始が不正です。
+式の開始が不正です。
+シンボルを見つけられません。
+文字列リテラルが閉じられていません。
+構文解析中にファイルの終わりに移りました
+メソッドの宣言が不正です。戻り値の型が必要です。

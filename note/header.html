@@ -1,0 +1,54 @@
+<style type="text/css">
+.sourceCode {
+    font-family: "Courier New", Courier, monospace;
+    background-color: #dddddd;
+}
+/*
+pandocのhilightを使う。
+defaultのstyleが適用されているとして、スタイルを上書きする。
+
+http://hackage.haskell.org/packages/archive/pandoc/1.9.1.1/doc/html/Text-Pandoc-Highlighting.html
+
+KeywordTok = kw
+DataTypeTok = dt
+DecValTok = dv
+BaseNTok = bn
+FloatTok = fl
+CharTok = ch
+StringTok = st
+CommontTok = co comment?
+OtherTok = ot
+AlertTok = al
+FunctionTok = fu
+RegionMarkerTok = re
+ErrorTok = er
+A NormalTok is not marked up at all.
+*/
+pre.sourceCode {
+    margin-left: 20px;
+    padding: 3px;
+    border: 1px solid gray;
+}
+code {
+    color: #444;
+}
+code > span.kw { color: blue; font-weight: normal; font-style: normal; }
+code > span.dt { color: blue; font-weight: normal; font-style: normal; }
+code > span.dv { color: #40a070; font-weight: normal; font-style: normal; }
+code > span.bn { color: #40a070; font-weight: normal; font-style: normal; }
+code > span.fl { color: red; font-weight: normal; font-style: normal; }
+code > span.ch { color: #4070a0; font-weight: normal; font-style: normal; }
+code > span.st { color: red; font-weight: normal; font-style: normal; }
+code > span.co { color: green; font-weight: normal; font-style: normal; }
+code > span.ot { color: #007020; font-weight: normal; font-style: normal; }
+code > span.al { color: #ff0000; font-weight: normal; font-style: normal; }
+code > span.fu { color: #222; font-weight: normal; font-style: normal; }
+code > span.er { color: #ff0000; font-weight: normal; font-style: normal; }
+
+pre.note {
+    font-size: 9pt;
+    margin: 40px;
+    background-color: #ddf;
+}
+</style>
+
