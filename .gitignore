@@ -46,8 +46,3 @@ Thumbs.db
 ##########
 
 .metadata/
-
-# generated files
-##################
-
-web/*
